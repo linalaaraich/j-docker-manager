@@ -111,6 +111,7 @@ public class DockerManager {
         }
     }
 
+
     public List<ContainerInfo> listContainers(boolean all) {
         List<ContainerInfo> containers = new ArrayList<>();
         try {
