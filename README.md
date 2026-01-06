@@ -1,6 +1,6 @@
 # J-Docker Remote Manager
 
-## 👥 Équipe
+## Équipe
 
 **Réalisé par :**
 - ESSAFI Fatima-Ezzahrae
@@ -15,7 +15,7 @@
 
 ---
 
-## 📋 Description
+## Description
 
 J-Docker Remote Manager est une application Java permettant de gérer à distance un moteur Docker via une architecture client-serveur basée sur TCP. Le projet offre une interface CLI intuitive pour piloter l'ensemble du cycle de vie des conteneurs Docker sans accès direct à la machine hôte.
 
@@ -29,7 +29,7 @@ J-Docker Remote Manager est une application Java permettant de gérer à distanc
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌─────────────┐         TCP/JSON         ┌─────────────┐         Docker API        ┌─────────────┐
@@ -42,7 +42,7 @@ J-Docker Remote Manager est une application Java permettant de gérer à distanc
 
 ---
 
-## 🚀 Utilisation rapide
+## Utilisation rapide
 
 ### Démarrer le serveur
 ```bash
@@ -70,7 +70,7 @@ exit               - Déconnexion
 
 ---
 
-## 🛠️ Technologies
+## Technologies
 
 - **Java 17** - Langage de programmation
 - **Maven 3.9.9** - Gestion des dépendances
